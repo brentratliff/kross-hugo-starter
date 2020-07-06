@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Blue Pilot Fund"
 [[menu.main]]
-URL = "board-of-trustees"
+URL = "about"
 name = "Board of Trustees"
 weight = 2
 [[menu.main]]
