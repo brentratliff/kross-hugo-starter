@@ -19,6 +19,9 @@ team:
   enable: true
   title: My Team
   team_member:
+  - title: Brent Ratliff
+    image: ''
+    designation: Vice Chairman
   - title: Jack Schenziwe
     image: images/team/member-1.png
     designation: Project Manager
