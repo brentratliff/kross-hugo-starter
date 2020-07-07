@@ -53,7 +53,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: Mission
   item:
   - title: UI Design
     icon: ti-palette
