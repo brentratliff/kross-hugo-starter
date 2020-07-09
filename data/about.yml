@@ -20,7 +20,7 @@ team:
   title: My Team
   team_member:
   - title: Chris Lum
-    image: ''
+    image: "/images/team/lum.jpg"
     designation: Treasurer
     seat: A320 Captain
   - title: Nick Hoffman
