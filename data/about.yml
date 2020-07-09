@@ -20,7 +20,7 @@ team:
   title: My Team
   team_member:
   - title: Nick Hoffman
-    image: ''
+    image: "/images/team/vows.jpg"
     designation: Chairman
     seat: BOS E190 Captain
   - title: Brent Ratliff
