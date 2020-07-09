@@ -19,6 +19,10 @@ team:
   enable: true
   title: My Team
   team_member:
+  - title: Mike Kelsey
+    image: "/images/team/kelsey.jpg"
+    designation: Evaluator
+    seat: BOS E190 Captain
   - title: Carriee Braun
     image: "/images/team/carrie.jpg"
     designation: Secretary
